@@ -1,0 +1,10 @@
+Instructions
+--------------------------------------------------------------------------------------------------
+Z to rotate
+arrow keys to move the block
+
+
+---------------------------------------------------------------------------------------------------------
+Many Great thanks to javidx9 and his video, it took some time to understand the code but had fun coding it!
+https://www.github.com/onelonecoder
+https://www.youtube.com/watch?v=8OK8_tHeCIA (Watch and do it yourself)
